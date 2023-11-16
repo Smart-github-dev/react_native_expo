@@ -1,2 +1,2 @@
 # react_native_expo
-[expo](src/assets/images/compatible.png)
+![Frontend Screenshot](src/assets/images/compatible.png)
